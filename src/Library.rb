@@ -15,7 +15,7 @@ class Library
   end
 
   def seed
-    30.times do
+    40.times do
       author_name = Faker::Book.author
       author_biography = Faker::Lorem.paragraph(4)
       book_title = Faker::Book.unique.title
@@ -23,7 +23,7 @@ class Library
       @books << Book.new(book_title, author_name)
     end
 
-    50.times do
+    100.times do
       name = Faker::Name.unique.name
       email = Faker::Internet.email(name)
       city = Faker::Address.city
@@ -53,11 +53,11 @@ class Library
         date: order.date.to_s
       }
     end
-    File.open('Data.txt', 'w') { |file| file.write(data) }
+    File.open('src/Data.txt', 'w') { |file| file.write(data) }
   end
 
   def read_from_file
-    got_data = eval(File.read('Data.txt'))
+    got_data = eval(File.read('src/Data.txt'))
     got_data.each do |key, value|
       case key
       when :authors
@@ -77,26 +77,28 @@ class Library
     end
   end
 
-  def who_often_take_books
-    counts = @orders.each_with_object({}) do |order, h|
+  def top_reader
+    count = @orders.each_with_object({}) do |order, h|
       h[order.reader.name] = 0 unless h.key? order.reader.name
       h[order.reader.name] += 1
     end
-    main_reader = counts.max_by { |_k, v| v }
+    count.max_by { |_k, v| v }.first
   end
 
-  def most_popular_books(count = 1)
-    counts = @orders.each_with_object({}) do |order, h|
+  def top_book
+    count = @orders.each_with_object({}) do |order, h|
       h[order.book.title] = 0 unless h.key? order.book.title
       h[order.book.title] += 1
     end
-    main_book = counts.max_by(count) { |_k, v| v }
+    count.max_by { |_k, v| v }.first
   end
 
-  def count_of_orders_three_most_popular_books
-    top_three = most_popular_books(3).to_h
-    count_orders = 0
-    top_three.each_value { |v| count_orders += v }
-    count_orders
+  def count_of_orders_book(position)
+    count = @orders.each_with_object({}) do |order, h|
+      h[order.book.title] = 0 unless h.key? order.book.title
+      h[order.book.title] += 1
+    end
+    top = count.max_by(position) { |_k, v| v }
+    top.dig(position - 1, 1)
   end
 end
