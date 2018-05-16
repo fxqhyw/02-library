@@ -2,12 +2,12 @@ require_relative 'models/author'
 require_relative 'models/book'
 require_relative 'models/reader'
 require_relative 'models/order'
-require_relative 'work_with_file'
+require_relative 'io_helpers'
 require 'ffaker'
 
 class Library
   attr_accessor :authors, :books, :orders, :readers
-  include WorkWithFile
+  include IOHelpers
 
   def initialize(authors = [], books = [], orders = [], readers = [])
     @authors = authors
@@ -17,14 +17,14 @@ class Library
   end
 
   def seed
-    40.times do
+    50.times do
       author = Author.new(name: FFaker::Book.author,
                           biography: FFaker::Lorem.paragraph(3))
       @authors << author
       @books << Book.new(title: FFaker::Book.unique.title, author: author)
     end
 
-    100.times do
+    60.times do
       @readers << Reader.new(name: FFaker::Name.unique.name,
                              email: FFaker::Internet.email,
                              city: FFaker::Address.city,
@@ -32,35 +32,23 @@ class Library
                              house: FFaker::Address.building_number)
     end
 
-    100.times do
-      book_id = rand(@books.length - 1)
-      reader_id = rand(@readers.length - 1)
-      @orders << Order.new(book: @books[book_id], reader: @readers[reader_id])
+    120.times do
+      book_index = rand(@books.length - 1)
+      reader_index = rand(@readers.length - 1)
+      @orders << Order.new(book: @books[book_index], reader: @readers[reader_index])
     end
   end
 
   def top_reader
-    count = @orders.each_with_object({}) do |order, h|
-      h[order.reader.name] = 0 unless h.key? order.reader.name
-      h[order.reader.name] += 1
-    end
-    count.max_by { |_k, v| v }.first
+    @orders.group_by(&:reader).max_by { |_k, v| v.length }.first.name
   end
 
   def top_book
-    count = @orders.each_with_object({}) do |order, h|
-      h[order.book.title] = 0 unless h.key? order.book.title
-      h[order.book.title] += 1
-    end
-    count.max_by { |_k, v| v }.first
+    @orders.group_by(&:book).max_by { |_k, v| v.length }.first.title
   end
 
-  def count_of_book_orders_in_position(position)
-    count = @orders.each_with_object({}) do |order, h|
-      h[order.book.title] = 0 unless h.key? order.book.title
-      h[order.book.title] += 1
-    end
-    top = count.max_by(position) { |_k, v| v }
-    top.dig(position - 1, 1)
+  def count_of_book_orders_in_position(pos)
+    grouped = @orders.group_by(&:book)
+    grouped.each { |k, v| grouped[k] = v.length }.max_by(pos) { |_k, v| v }.dig(pos - 1, 1 )
   end
 end
