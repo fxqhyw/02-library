@@ -1,17 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    concurrent-ruby (1.0.5)
-    faker (1.8.7)
-      i18n (>= 0.7)
-    i18n (0.9.3)
-      concurrent-ruby (~> 1.0)
+    ffaker (2.9.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  faker
+  ffaker
 
 RUBY VERSION
    ruby 2.5.0p0

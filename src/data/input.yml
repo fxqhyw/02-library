@@ -1,0 +1,1230 @@
+--- !ruby/object:Library
+authors:
+- &1 !ruby/object:Author
+  name: Tereasa Raynor
+  biography: Dolorem quam occaecati ullam ea iusto consequuntur repellendus incidunt.
+    Est voluptatem aut minima ut non sequi non veniam. Omnis dolorem maiores odio
+    et inventore non nisi delectus.
+- &2 !ruby/object:Author
+  name: Brock Rempel
+  biography: Id vitae sapiente ex sequi cum nulla dicta. Consequuntur aliquam sunt
+    vel at voluptas. Ad dolores a laboriosam debitis. Qui voluptate aut nihil nemo
+    odit qui id.
+- &3 !ruby/object:Author
+  name: Roselle Swaniawski
+  biography: Aperiam sed qui rem aut. Veritatis ut et eum nisi vitae autem illum.
+    Expedita magnam placeat sed voluptatum.
+- &4 !ruby/object:Author
+  name: Florinda Watsica
+  biography: Quia dolores nesciunt id quasi facilis ipsam nostrum. Voluptatum odit
+    quis mollitia illum ut ut nemo autem. Aut vel deserunt officiis sed iusto porro
+    reprehenderit maxime.
+- &5 !ruby/object:Author
+  name: Mozell Schuster
+  biography: Placeat consequatur doloribus voluptates sed odit molestias et. Omnis
+    perferendis totam vel voluptatem. Iste culpa natus ratione ea ipsa.
+- &6 !ruby/object:Author
+  name: Ranee Schneider
+  biography: Nobis ut labore libero quia aperiam. Non alias voluptate corrupti sit
+    rem ex et omnis. Magni veniam officia fugiat dolor omnis non quae voluptatem.
+- &7 !ruby/object:Author
+  name: Glennis Braun
+  biography: Ut nam iste voluptates adipisci aliquam harum. Alias exercitationem provident
+    nulla temporibus qui aut id et. Nemo assumenda asperiores accusantium qui pariatur
+    sit et alias.
+- &8 !ruby/object:Author
+  name: Hulda Kutch
+  biography: Magni est corporis beatae quidem officia rerum qui quo. Aut temporibus
+    illum sit quia doloremque praesentium. Ut sapiente ad fugiat modi maiores.
+- &9 !ruby/object:Author
+  name: Carylon Lehner
+  biography: Fuga id qui eius minima tenetur. Dolorem enim quaerat aspernatur hic
+    facere suscipit alias eos. Necessitatibus pariatur nulla eum aut harum sequi.
+    Molestiae iure quam vitae placeat.
+- &10 !ruby/object:Author
+  name: Lionel Schuppe
+  biography: Necessitatibus unde voluptatem blanditiis architecto ex rem dignissimos
+    delectus. Laborum consequatur quisquam quia nobis et. Voluptatibus est quam animi
+    aperiam.
+- &11 !ruby/object:Author
+  name: Chau Wunsch
+  biography: Qui doloremque enim iste quos. Sapiente placeat nostrum est sed qui.
+    Veritatis voluptatum saepe eum ut ex eveniet aut quo.
+- &12 !ruby/object:Author
+  name: Eneida Yost
+  biography: Nemo expedita ea harum ut occaecati labore qui explicabo. Earum culpa
+    fugit molestias qui corrupti necessitatibus soluta. A eum vel quisquam nihil.
+- &13 !ruby/object:Author
+  name: Becki Wolf
+  biography: Ipsum quo non at quia. Adipisci quas est corporis nisi nesciunt aliquid
+    ipsum voluptates. Mollitia quos qui vero sed et aliquid autem. Velit nisi quo
+    eaque repellat alias cupiditate.
+- &14 !ruby/object:Author
+  name: Lorilee Upton
+  biography: Quam nihil qui placeat nesciunt. Autem ut omnis aperiam libero perferendis
+    ea quidem eaque. Rerum nobis consequatur assumenda voluptatibus.
+- &15 !ruby/object:Author
+  name: Vannesa Schowalter
+  biography: Quis praesentium provident nulla quidem quam enim. Praesentium dolorem
+    accusamus rerum quod consectetur. Perferendis dolor voluptatem cupiditate quia
+    eligendi sequi corporis minima.
+- &16 !ruby/object:Author
+  name: Rosaria Ratke
+  biography: Earum occaecati sed aut architecto. Omnis excepturi est placeat et earum
+    qui. Tempora reprehenderit minima porro enim in dicta cumque.
+- &17 !ruby/object:Author
+  name: Goldie Powlowski
+  biography: Eum assumenda sed a reiciendis minus. Ea deserunt excepturi illo eligendi
+    natus voluptas. Accusamus autem veniam rerum sit sunt. Beatae at aut dolore laboriosam
+    officiis dolorem dignissimos.
+- &18 !ruby/object:Author
+  name: Ronny Rice
+  biography: Recusandae assumenda libero consequatur sed eveniet modi. Voluptatem
+    ut dignissimos ipsum repudiandae aut. Qui culpa minus est quae dolore et delectus.
+    Aut tempore eius corporis laborum dolor ut rerum ut. Voluptatem sed temporibus
+    odit quod incidunt ab veritatis.
+- &19 !ruby/object:Author
+  name: Cathrine Keeling
+  biography: Voluptatem veritatis unde voluptatem ut non dolores expedita. Voluptatem
+    quod delectus inventore incidunt quisquam eos vel. Laboriosam voluptatum modi
+    non est in voluptas repellendus.
+- &20 !ruby/object:Author
+  name: Latonia Schaden
+  biography: Earum quos iste beatae sit ad amet incidunt illum. Eos alias quis sapiente
+    tenetur. Aliquid temporibus voluptatem debitis est rerum eligendi sint.
+- &21 !ruby/object:Author
+  name: Trula Russel
+  biography: Molestiae pariatur iste dolore quia accusamus sed vitae aspernatur. Officia
+    accusamus sapiente omnis cum et nesciunt corrupti. Quam expedita est commodi consequatur
+    sunt.
+- &22 !ruby/object:Author
+  name: Ike Will
+  biography: Itaque id nostrum ipsa repellendus. Dolorum aliquam et a doloribus quisquam
+    id. Sed deleniti minus et harum nihil facere officia accusamus.
+- &23 !ruby/object:Author
+  name: Myung Cormier
+  biography: Architecto nesciunt consequuntur debitis molestiae nostrum. Velit sapiente
+    illum est quo. Consequatur reiciendis aperiam rerum delectus libero cumque repudiandae.
+    Sint deleniti tempore sed accusamus enim repellendus eum. Qui eveniet ipsa velit
+    molestiae.
+- &24 !ruby/object:Author
+  name: Bronwyn Howell
+  biography: Velit nobis mollitia ut magnam labore voluptas corrupti ex. Minus et
+    totam natus nobis dolorum minima. Maxime dignissimos natus voluptatem nostrum.
+- &25 !ruby/object:Author
+  name: Thomasena Legros
+  biography: Iste libero omnis nesciunt molestiae earum officia sint est. Temporibus
+    ipsum fugiat hic expedita. Eius aliquam totam veniam tenetur. Veritatis atque
+    nostrum sed possimus. Est ex iusto similique ut.
+- &26 !ruby/object:Author
+  name: Fran Leannon
+  biography: Deleniti voluptas quis quasi consectetur qui sit. Quos cumque iure nihil
+    repellat molestiae. Enim velit labore praesentium adipisci sint ex quia nihil.
+- &27 !ruby/object:Author
+  name: Lorene Jacobs
+  biography: Odit nesciunt mollitia non itaque. Et voluptate et voluptates sit officia
+    ut voluptatum sed. Est repudiandae placeat corrupti blanditiis. Inventore consectetur
+    error similique non. Omnis sit dolor quia aut.
+- &28 !ruby/object:Author
+  name: Eloy Schmitt
+  biography: Sit id in iusto voluptatem corporis adipisci aspernatur. Qui perferendis
+    harum sapiente et. Ea et vitae veniam eos asperiores fugiat ut quasi. Ab in quia
+    a recusandae ea ducimus esse.
+- &29 !ruby/object:Author
+  name: Alverta Weissnat
+  biography: Quis in ut laudantium voluptatibus similique ut. At et molestias quo
+    quia. Explicabo laudantium eos non unde nesciunt doloribus veniam. A hic eius
+    dignissimos atque enim nobis.
+- &30 !ruby/object:Author
+  name: Candida Rice
+  biography: Ipsam maxime asperiores possimus ea. Soluta assumenda consequatur fugiat
+    ea quo itaque aut. Animi et voluptatem quis magni natus eius asperiores.
+- &31 !ruby/object:Author
+  name: Bennett Dicki
+  biography: Cupiditate et sed modi est exercitationem dolorem. Libero qui voluptas
+    cumque quos corporis nihil. Odio autem accusamus et eum. Ducimus molestiae enim
+    fugiat quo dolorem in. Consequatur et veniam repellendus quis nam.
+- &32 !ruby/object:Author
+  name: Hertha Auer
+  biography: Temporibus quasi sit consectetur sed voluptatibus doloribus porro. A
+    ut odio est ipsum. Quam rerum nobis molestias soluta. In magni sunt voluptas reiciendis
+    explicabo maiores.
+- &33 !ruby/object:Author
+  name: Shae Wolf
+  biography: Soluta qui tempore eveniet voluptatem sed et optio quo. Sed animi quidem
+    sed quasi in adipisci ea. Nihil ut voluptas iure repellendus sed repudiandae aut.
+    Et ratione reprehenderit non temporibus ut sed est quis.
+- &34 !ruby/object:Author
+  name: Deadra Bauch
+  biography: Ducimus vel autem sunt aliquam est minima voluptates. Fugiat vel consequuntur
+    reiciendis aut nihil ipsam dolores. Odio ipsum enim dolores consequuntur. Repudiandae
+    aspernatur aliquid dolorum vel harum omnis. Sit rem rerum enim omnis qui praesentium.
+- &35 !ruby/object:Author
+  name: Felecia Schamberger
+  biography: Occaecati ut consequatur ut nulla quo eos et blanditiis. Repellendus
+    magni voluptas doloremque similique vel. Eum quia sequi quae fugiat maxime nesciunt.
+- &36 !ruby/object:Author
+  name: Angeline Nicolas
+  biography: Tempora consequatur porro expedita et culpa velit. Beatae tenetur vero
+    a iure omnis veniam expedita. Non nemo dignissimos maxime placeat eum eum.
+- &37 !ruby/object:Author
+  name: Fredric Pfannerstill
+  biography: Facilis amet fuga praesentium nihil quibusdam rerum. Quia ea ipsum maxime
+    quas. Aliquid error culpa neque ducimus.
+- &38 !ruby/object:Author
+  name: Meridith Ziemann
+  biography: Nam deleniti vitae sequi aut iusto. Architecto dolorem facere illum omnis
+    velit eius. Reiciendis et aut repellat excepturi est iusto.
+- &39 !ruby/object:Author
+  name: Doreen Langworth
+  biography: Corporis iure excepturi doloribus qui nisi tenetur autem. Ipsum nobis
+    id eaque nulla modi minus facilis est. Accusamus et officia in vitae doloribus
+    dolores aut.
+- &40 !ruby/object:Author
+  name: Micha Harris
+  biography: Odio expedita quod rem numquam commodi. Placeat similique sed minus consequatur.
+    Tempore animi qui architecto quod. Natus tenetur unde molestiae ipsam voluptates.
+- &41 !ruby/object:Author
+  name: Magali Pollich
+  biography: Ducimus beatae error laboriosam soluta sapiente. Fugiat ut consequatur
+    explicabo dolores expedita. Quia qui expedita velit perferendis blanditiis dolores
+    voluptatem.
+- &42 !ruby/object:Author
+  name: Ethelyn McCullough
+  biography: Dignissimos temporibus expedita assumenda eum repellat. Cupiditate repellat
+    veritatis optio facilis qui et est. Saepe voluptatem sed impedit aut autem quae
+    facere. Voluptas eligendi doloremque molestias inventore quod voluptatem corporis
+    voluptas. Rerum id repellat nostrum accusantium.
+- &43 !ruby/object:Author
+  name: Antonietta Moen
+  biography: Occaecati quaerat facilis quidem atque culpa sit minus. Eaque minima
+    laborum illo possimus dolorem architecto ut. Dolor rerum ut nemo perspiciatis
+    officiis. Soluta inventore eos est deserunt doloribus. Nobis voluptatem doloremque
+    corrupti molestiae distinctio vel.
+- &44 !ruby/object:Author
+  name: Sammy Braun
+  biography: Minus libero fugit officiis molestiae ratione iure. Et odio recusandae
+    voluptatibus est officiis aspernatur deleniti. Voluptas eum accusamus est nulla.
+- &45 !ruby/object:Author
+  name: Jaclyn Rippin
+  biography: Et fugit enim quidem consequatur blanditiis soluta dolores. Eum eaque
+    non necessitatibus voluptas vel hic voluptatem ullam. Dolore facilis tempore dolor
+    accusantium ut ut omnis.
+- &46 !ruby/object:Author
+  name: Jacklyn Satterfield
+  biography: Aliquid sint eum quasi consequatur iure. Et velit ut aut magni sit et.
+    Praesentium consequuntur voluptas reprehenderit quasi est sit ut. Vitae enim sunt
+    doloribus voluptas id optio ea.
+- &47 !ruby/object:Author
+  name: Lulu Thiel
+  biography: Aut hic non doloremque qui eum enim. Non nobis perspiciatis incidunt
+    praesentium recusandae dolorem. Porro optio illum maxime autem sit fugit assumenda
+    fuga. At officiis eum consequatur nihil.
+- &48 !ruby/object:Author
+  name: Madelaine Anderson
+  biography: Error modi excepturi porro ea adipisci nisi ipsum. Velit quis sint sunt
+    itaque qui corporis. Explicabo iusto magni praesentium neque tempora. Ducimus
+    numquam natus voluptatibus omnis fugiat et delectus enim.
+- &49 !ruby/object:Author
+  name: Roxann Hane
+  biography: Ut provident porro rerum voluptatem aut iusto quidem et. Rerum dolorem
+    iste autem possimus. Aperiam autem a voluptas deleniti voluptatem aliquam. Fuga
+    hic repellendus aspernatur ut deserunt nihil vero.
+- &50 !ruby/object:Author
+  name: Willena Nolan
+  biography: Placeat asperiores a labore non incidunt minus quas. Eos est tempore
+    consectetur doloremque ipsa dolorem dolorem est. Saepe sit ut adipisci velit maxime.
+    Odit inventore consequatur vel impedit quisquam autem aut id.
+books:
+- &56 !ruby/object:Book
+  title: A Fistful of Electric Beast
+  author: *1
+- &91 !ruby/object:Book
+  title: Ultra Woman
+  author: *2
+- &54 !ruby/object:Book
+  title: Journey of the Death Mutant
+  author: *3
+- &113 !ruby/object:Book
+  title: Danger Hills
+  author: *4
+- &118 !ruby/object:Book
+  title: Planet of the Red Ninjas
+  author: *5
+- &126 !ruby/object:Book
+  title: Ultra Fly
+  author: *6
+- &82 !ruby/object:Book
+  title: Planet of the Green Brains
+  author: *7
+- &88 !ruby/object:Book
+  title: Invasion of the Dangerous Diaries
+  author: *8
+- &57 !ruby/object:Book
+  title: Blue World
+  author: *9
+- &127 !ruby/object:Book
+  title: I am Nuclear Cat
+  author: *10
+- &73 !ruby/object:Book
+  title: Nuclear Thief
+  author: *11
+- &94 !ruby/object:Book
+  title: Green Wizard
+  author: *12
+- &84 !ruby/object:Book
+  title: Journey of the Death Friday
+  author: *13
+- &60 !ruby/object:Book
+  title: I Married a Ultra Ninjas
+  author: *14
+- &67 !ruby/object:Book
+  title: I Married a Ultra Wolves
+  author: *15
+- &86 !ruby/object:Book
+  title: Journey of the Green Men
+  author: *16
+- &95 !ruby/object:Book
+  title: Invasion of the American Blow
+  author: *17
+- &55 !ruby/object:Book
+  title: A Fistful of Tokyo Ninja
+  author: *18
+- &62 !ruby/object:Book
+  title: Action Brain
+  author: *19
+- &53 !ruby/object:Book
+  title: Invasion of the Action Gypsy
+  author: *20
+- &121 !ruby/object:Book
+  title: Nuclear Brain
+  author: *21
+- &71 !ruby/object:Book
+  title: The Fake Wolf
+  author: *22
+- &51 !ruby/object:Book
+  title: Hungry Blow
+  author: *23
+- &87 !ruby/object:Book
+  title: Blonde Monster
+  author: *24
+- &61 !ruby/object:Book
+  title: Nuclear Rain
+  author: *25
+- &52 !ruby/object:Book
+  title: Ultra Ninjas
+  author: *26
+- !ruby/object:Book
+  title: Journey of the Bloody Ninja
+  author: *27
+- &99 !ruby/object:Book
+  title: Journey of the American Rain
+  author: *28
+- &109 !ruby/object:Book
+  title: Ultra World
+  author: *29
+- &68 !ruby/object:Book
+  title: Season of the Forbidden Friday
+  author: *30
+- &100 !ruby/object:Book
+  title: Champagne Fly
+  author: *31
+- !ruby/object:Book
+  title: War of the Nuclear Man
+  author: *32
+- &89 !ruby/object:Book
+  title: A Fistful of Forbidden Ninjas
+  author: *33
+- &80 !ruby/object:Book
+  title: Invasion of the Danger Witch
+  author: *34
+- &122 !ruby/object:Book
+  title: The Red Woman
+  author: *35
+- &58 !ruby/object:Book
+  title: 'Codename: Champagne Wizard'
+  author: *36
+- &92 !ruby/object:Book
+  title: Blue Diaries
+  author: *37
+- &104 !ruby/object:Book
+  title: Electric World
+  author: *38
+- &74 !ruby/object:Book
+  title: Fake Tears
+  author: *39
+- &83 !ruby/object:Book
+  title: I am Killer Brains
+  author: *40
+- !ruby/object:Book
+  title: Rise of the Tokyo Brain
+  author: *41
+- &76 !ruby/object:Book
+  title: Action Tears
+  author: *42
+- &72 !ruby/object:Book
+  title: Ultra Diaries
+  author: *43
+- !ruby/object:Book
+  title: Planet of the Bloody Cat
+  author: *44
+- &59 !ruby/object:Book
+  title: Killer Wizard
+  author: *45
+- &63 !ruby/object:Book
+  title: Curse of the Dangerous Pickpocket
+  author: *46
+- &64 !ruby/object:Book
+  title: I Married a Tokyo World
+  author: *47
+- &66 !ruby/object:Book
+  title: War of the Nuclear Tears
+  author: *48
+- &65 !ruby/object:Book
+  title: Death Blow
+  author: *49
+- !ruby/object:Book
+  title: Death Ninjas
+  author: *50
+orders:
+- !ruby/object:Order
+  book: *51
+  reader: &147 !ruby/object:Reader
+    name: Mellie Spinka
+    email: hermelinda@rolfson.info
+    city: West Len
+    street: Becker Bypass
+    house: '832'
+  date: 2018-05-16 14:43:32.831677713 +03:00
+- !ruby/object:Order
+  book: *52
+  reader: &97 !ruby/object:Reader
+    name: Sherrell Torphy
+    email: alexa_pfannerstill@effertzbrakus.com
+    city: Shalaberg
+    street: Augustus Creek
+    house: '7677'
+  date: 2018-05-16 14:43:32.831679974 +03:00
+- !ruby/object:Order
+  book: *53
+  reader: &140 !ruby/object:Reader
+    name: Alethea Jakubowski
+    email: darcy.streich@wyman.us
+    city: East Elodiahaven
+    street: Sook Streets
+    house: '08628'
+  date: 2018-05-16 14:43:32.831681406 +03:00
+- !ruby/object:Order
+  book: *54
+  reader: &96 !ruby/object:Reader
+    name: Katrice Wehner
+    email: salvatore@kuhic.com
+    city: Matildahaven
+    street: Ashly Neck
+    house: '80728'
+  date: 2018-05-16 14:43:32.831682602 +03:00
+- !ruby/object:Order
+  book: *55
+  reader: &70 !ruby/object:Reader
+    name: Breann Toy
+    email: marion_murazik@aufderhar.us
+    city: North Olin
+    street: Kuhic Mount
+    house: '977'
+  date: 2018-05-16 14:43:32.831684028 +03:00
+- !ruby/object:Order
+  book: *56
+  reader: &120 !ruby/object:Reader
+    name: Isaias Terry
+    email: bobby@sauer.name
+    city: South Versieborough
+    street: Fae Extension
+    house: '4287'
+  date: 2018-05-16 14:43:32.831685159 +03:00
+- !ruby/object:Order
+  book: *57
+  reader: &105 !ruby/object:Reader
+    name: Jeanne Mertz
+    email: soledad_gleichner@kuhic.biz
+    city: South Jacquestad
+    street: Greenfelder Bridge
+    house: '2706'
+  date: 2018-05-16 14:43:32.831686153 +03:00
+- !ruby/object:Order
+  book: *58
+  reader: &143 !ruby/object:Reader
+    name: Vernice Herman
+    email: reatha@emard.us
+    city: New Lavonnafort
+    street: Yundt Lake
+    house: '943'
+  date: 2018-05-16 14:43:32.831687163 +03:00
+- !ruby/object:Order
+  book: *55
+  reader: &134 !ruby/object:Reader
+    name: Elisabeth Murazik
+    email: mahalia@beier.us
+    city: New Rosenaland
+    street: Ava Forest
+    house: '224'
+  date: 2018-05-16 14:43:32.831688186 +03:00
+- !ruby/object:Order
+  book: *59
+  reader: &81 !ruby/object:Reader
+    name: Khadijah Runolfsson
+    email: melody_labadie@kesslerdare.co.uk
+    city: East Sharondaville
+    street: Laurinda Haven
+    house: '095'
+  date: 2018-05-16 14:43:32.831689188 +03:00
+- !ruby/object:Order
+  book: *60
+  reader: &123 !ruby/object:Reader
+    name: Zaida Dicki
+    email: marta_steuber@waelchi.biz
+    city: South Maryam
+    street: Cummings Crossing
+    house: '29245'
+  date: 2018-05-16 14:43:32.831690189 +03:00
+- !ruby/object:Order
+  book: *61
+  reader: &110 !ruby/object:Reader
+    name: Vesta Bradtke
+    email: jerrod_hansen@hoppe.biz
+    city: Abshireburgh
+    street: Elizabeth Curve
+    house: '9019'
+  date: 2018-05-16 14:43:32.831691230 +03:00
+- !ruby/object:Order
+  book: *62
+  reader: &107 !ruby/object:Reader
+    name: Edythe Huel
+    email: yelena_ferry@welch.biz
+    city: Lake Lacy
+    street: Quitzon Dam
+    house: '276'
+  date: 2018-05-16 14:43:32.831692247 +03:00
+- !ruby/object:Order
+  book: *63
+  reader: &145 !ruby/object:Reader
+    name: Benito Stokes
+    email: ona@homenickkovacek.biz
+    city: North Estefanaborough
+    street: Johanna Dam
+    house: '140'
+  date: 2018-05-16 14:43:32.831693265 +03:00
+- !ruby/object:Order
+  book: *64
+  reader: &106 !ruby/object:Reader
+    name: Keren Metz
+    email: denisha@kohlerlubowitz.com
+    city: East Teresitashire
+    street: Darin Heights
+    house: '3326'
+  date: 2018-05-16 14:43:32.831694299 +03:00
+- !ruby/object:Order
+  book: *62
+  reader: &75 !ruby/object:Reader
+    name: Kamilah Armstrong
+    email: melany@dachhyatt.co.uk
+    city: Port Sidshire
+    street: Vernetta Valley
+    house: '00970'
+  date: 2018-05-16 14:43:32.831695303 +03:00
+- !ruby/object:Order
+  book: *65
+  reader: &69 !ruby/object:Reader
+    name: Ozella Wolf
+    email: olympia_kreiger@carter.com
+    city: Concepcionchester
+    street: Schuster Loop
+    house: '688'
+  date: 2018-05-16 14:43:32.831696321 +03:00
+- !ruby/object:Order
+  book: *59
+  reader: &115 !ruby/object:Reader
+    name: Pamela Hegmann
+    email: devin@oconnell.info
+    city: East Shandiport
+    street: Crona Lane
+    house: '077'
+  date: 2018-05-16 14:43:32.831697311 +03:00
+- !ruby/object:Order
+  book: *60
+  reader: &77 !ruby/object:Reader
+    name: Elois Brekke
+    email: lincoln@abbottkessler.info
+    city: Kyleshire
+    street: Corwin Spur
+    house: '85741'
+  date: 2018-05-16 14:43:32.831698326 +03:00
+- !ruby/object:Order
+  book: *66
+  reader: &79 !ruby/object:Reader
+    name: Arcelia Okuneva
+    email: sammy@greenholt.name
+    city: Lake Kimber
+    street: VonRueden Oval
+    house: '71705'
+  date: 2018-05-16 14:43:32.831699326 +03:00
+- !ruby/object:Order
+  book: *67
+  reader: &98 !ruby/object:Reader
+    name: Coy Mayert
+    email: era@huels.name
+    city: Bethannberg
+    street: Jewess Locks
+    house: '91058'
+  date: 2018-05-16 14:43:32.831700363 +03:00
+- !ruby/object:Order
+  book: *68
+  reader: &93 !ruby/object:Reader
+    name: Gianna Tromp
+    email: angelo@mclaughlin.name
+    city: East Annie
+    street: Alina Club
+    house: '161'
+  date: 2018-05-16 14:43:32.831701915 +03:00
+- !ruby/object:Order
+  book: *51
+  reader: *69
+  date: 2018-05-16 14:43:32.831702914 +03:00
+- !ruby/object:Order
+  book: *62
+  reader: *70
+  date: 2018-05-16 14:43:32.831704072 +03:00
+- !ruby/object:Order
+  book: *71
+  reader: *69
+  date: 2018-05-16 14:43:32.831705328 +03:00
+- !ruby/object:Order
+  book: *72
+  reader: &90 !ruby/object:Reader
+    name: Diedra Bode
+    email: austin_swaniawski@hoeger.biz
+    city: South Ernestinaton
+    street: Maryam Loop
+    house: '01069'
+  date: 2018-05-16 14:43:32.831706517 +03:00
+- !ruby/object:Order
+  book: *73
+  reader: *70
+  date: 2018-05-16 14:43:32.831707702 +03:00
+- !ruby/object:Order
+  book: *74
+  reader: *75
+  date: 2018-05-16 14:43:32.831708869 +03:00
+- !ruby/object:Order
+  book: *76
+  reader: &78 !ruby/object:Reader
+    name: Nikita Bergnaum
+    email: galen@abbottlowe.com
+    city: Kubmouth
+    street: Danny Valleys
+    house: '617'
+  date: 2018-05-16 14:43:32.831710030 +03:00
+- !ruby/object:Order
+  book: *59
+  reader: *77
+  date: 2018-05-16 14:43:32.831711150 +03:00
+- !ruby/object:Order
+  book: *73
+  reader: *78
+  date: 2018-05-16 14:43:32.831712571 +03:00
+- !ruby/object:Order
+  book: *64
+  reader: *79
+  date: 2018-05-16 14:43:32.831713881 +03:00
+- !ruby/object:Order
+  book: *80
+  reader: *81
+  date: 2018-05-16 14:43:32.831715171 +03:00
+- !ruby/object:Order
+  book: *66
+  reader: &85 !ruby/object:Reader
+    name: Palma Ferry
+    email: jodee.schamberger@conroycremin.name
+    city: Alinachester
+    street: VonRueden Grove
+    house: '197'
+  date: 2018-05-16 14:43:32.831716353 +03:00
+- !ruby/object:Order
+  book: *56
+  reader: &116 !ruby/object:Reader
+    name: Jesica Botsford
+    email: lynelle@ebert.co.uk
+    city: Cinthiachester
+    street: Oberbrunner Way
+    house: '78788'
+  date: 2018-05-16 14:43:32.831717465 +03:00
+- !ruby/object:Order
+  book: *60
+  reader: *81
+  date: 2018-05-16 14:43:32.831718514 +03:00
+- !ruby/object:Order
+  book: *82
+  reader: &148 !ruby/object:Reader
+    name: Victoria Maggio
+    email: luis@lueilwitz.info
+    city: North Deweymouth
+    street: Trang Mews
+    house: '21547'
+  date: 2018-05-16 14:43:32.831719663 +03:00
+- !ruby/object:Order
+  book: *57
+  reader: &111 !ruby/object:Reader
+    name: Andria Schowalter
+    email: eduardo@schadenrodriguez.co.uk
+    city: South Maiside
+    street: Charity Lock
+    house: '2157'
+  date: 2018-05-16 14:43:32.831720749 +03:00
+- !ruby/object:Order
+  book: *83
+  reader: &102 !ruby/object:Reader
+    name: Roberta Fay
+    email: tameka@graham.name
+    city: Vonmouth
+    street: Rafael Flat
+    house: '1184'
+  date: 2018-05-16 14:43:32.831722017 +03:00
+- !ruby/object:Order
+  book: *84
+  reader: *85
+  date: 2018-05-16 14:43:32.831723363 +03:00
+- !ruby/object:Order
+  book: *86
+  reader: &103 !ruby/object:Reader
+    name: Dahlia Little
+    email: caryl@robel.name
+    city: Waltonshire
+    street: Reichert Forest
+    house: '89003'
+  date: 2018-05-16 14:43:32.831724405 +03:00
+- !ruby/object:Order
+  book: *87
+  reader: *77
+  date: 2018-05-16 14:43:32.831725406 +03:00
+- !ruby/object:Order
+  book: *88
+  reader: &101 !ruby/object:Reader
+    name: Hortencia Greenfelder
+    email: erinn@tillman.info
+    city: New Jacqulinefort
+    street: Boyer Highway
+    house: '80478'
+  date: 2018-05-16 14:43:32.831726404 +03:00
+- !ruby/object:Order
+  book: *89
+  reader: *90
+  date: 2018-05-16 14:43:32.831727426 +03:00
+- !ruby/object:Order
+  book: *91
+  reader: &130 !ruby/object:Reader
+    name: Kathi Heaney
+    email: delta.friesen@dibbert.biz
+    city: Schoenhaven
+    street: Keith Expressway
+    house: '525'
+  date: 2018-05-16 14:43:32.831728420 +03:00
+- !ruby/object:Order
+  book: *92
+  reader: &128 !ruby/object:Reader
+    name: Marilu Ruecker
+    email: barry@daniel.biz
+    city: Johnsonborough
+    street: Miller Gardens
+    house: '430'
+  date: 2018-05-16 14:43:32.831729579 +03:00
+- !ruby/object:Order
+  book: *92
+  reader: &139 !ruby/object:Reader
+    name: Bryanna Yundt
+    email: ulysses_lesch@howellaltenwerth.ca
+    city: Eldaton
+    street: Metz Estate
+    house: '76484'
+  date: 2018-05-16 14:43:32.831730612 +03:00
+- !ruby/object:Order
+  book: *63
+  reader: *93
+  date: 2018-05-16 14:43:32.831731628 +03:00
+- !ruby/object:Order
+  book: *60
+  reader: *79
+  date: 2018-05-16 14:43:32.831732648 +03:00
+- !ruby/object:Order
+  book: *89
+  reader: *69
+  date: 2018-05-16 14:43:32.831733650 +03:00
+- !ruby/object:Order
+  book: *94
+  reader: &108 !ruby/object:Reader
+    name: Rico Leannon
+    email: celesta@schoenschuster.us
+    city: South Dewittborough
+    street: Arlette Forges
+    house: '8862'
+  date: 2018-05-16 14:43:32.831734645 +03:00
+- !ruby/object:Order
+  book: *66
+  reader: &132 !ruby/object:Reader
+    name: Patrice Greenfelder
+    email: yajaira@stamm.name
+    city: Port Renda
+    street: Abshire Views
+    house: '66692'
+  date: 2018-05-16 14:43:32.831735672 +03:00
+- !ruby/object:Order
+  book: *95
+  reader: &117 !ruby/object:Reader
+    name: Illa Boehm
+    email: tula@kuvalisthompson.us
+    city: South Temekabury
+    street: Alexa Orchard
+    house: '16808'
+  date: 2018-05-16 14:43:32.831736686 +03:00
+- !ruby/object:Order
+  book: *52
+  reader: *96
+  date: 2018-05-16 14:43:32.831737688 +03:00
+- !ruby/object:Order
+  book: *54
+  reader: *69
+  date: 2018-05-16 14:43:32.831738682 +03:00
+- !ruby/object:Order
+  book: *89
+  reader: *97
+  date: 2018-05-16 14:43:32.831745625 +03:00
+- !ruby/object:Order
+  book: *95
+  reader: *98
+  date: 2018-05-16 14:43:32.831747092 +03:00
+- !ruby/object:Order
+  book: *99
+  reader: &144 !ruby/object:Reader
+    name: Gwyn Schultz
+    email: dianna@rempel.name
+    city: Aniballand
+    street: Ortiz Plain
+    house: '35625'
+  date: 2018-05-16 14:43:32.831748504 +03:00
+- !ruby/object:Order
+  book: *100
+  reader: *93
+  date: 2018-05-16 14:43:32.831749594 +03:00
+- !ruby/object:Order
+  book: *58
+  reader: *81
+  date: 2018-05-16 14:43:32.831750584 +03:00
+- !ruby/object:Order
+  book: *57
+  reader: *98
+  date: 2018-05-16 14:43:32.831751579 +03:00
+- !ruby/object:Order
+  book: *51
+  reader: &114 !ruby/object:Reader
+    name: Rosalyn Marks
+    email: rachele_bauch@johnsmurazik.ca
+    city: Kihnmouth
+    street: Zaida Cove
+    house: '6387'
+  date: 2018-05-16 14:43:32.831752598 +03:00
+- !ruby/object:Order
+  book: *86
+  reader: &112 !ruby/object:Reader
+    name: Sharda Tremblay
+    email: lorilee@wunsch.com
+    city: Gracieberg
+    street: Denesik Knolls
+    house: '310'
+  date: 2018-05-16 14:43:32.831753615 +03:00
+- !ruby/object:Order
+  book: *72
+  reader: *101
+  date: 2018-05-16 14:43:32.831754607 +03:00
+- !ruby/object:Order
+  book: *53
+  reader: *102
+  date: 2018-05-16 14:43:32.831758092 +03:00
+- !ruby/object:Order
+  book: *64
+  reader: *103
+  date: 2018-05-16 14:43:32.831759377 +03:00
+- !ruby/object:Order
+  book: *104
+  reader: *105
+  date: 2018-05-16 14:43:32.831760388 +03:00
+- !ruby/object:Order
+  book: *88
+  reader: *106
+  date: 2018-05-16 14:43:32.831761389 +03:00
+- !ruby/object:Order
+  book: *65
+  reader: *107
+  date: 2018-05-16 14:43:32.831762418 +03:00
+- !ruby/object:Order
+  book: *62
+  reader: *103
+  date: 2018-05-16 14:43:32.831763455 +03:00
+- !ruby/object:Order
+  book: *67
+  reader: &136 !ruby/object:Reader
+    name: Simone Stark
+    email: donella.thiel@jacobialtenwerth.ca
+    city: Shaquitaport
+    street: Nolan Landing
+    house: '989'
+  date: 2018-05-16 14:43:32.831764476 +03:00
+- !ruby/object:Order
+  book: *76
+  reader: *102
+  date: 2018-05-16 14:43:32.831765490 +03:00
+- !ruby/object:Order
+  book: *73
+  reader: &131 !ruby/object:Reader
+    name: Claudia Toy
+    email: terrie@streich.info
+    city: South Alma
+    street: Hartmann Club
+    house: '22690'
+  date: 2018-05-16 14:43:32.831766498 +03:00
+- !ruby/object:Order
+  book: *66
+  reader: *106
+  date: 2018-05-16 14:43:32.831767493 +03:00
+- !ruby/object:Order
+  book: *56
+  reader: *108
+  date: 2018-05-16 14:43:32.831770856 +03:00
+- !ruby/object:Order
+  book: *109
+  reader: *110
+  date: 2018-05-16 14:43:32.831772174 +03:00
+- !ruby/object:Order
+  book: *82
+  reader: &124 !ruby/object:Reader
+    name: Micah Pouros
+    email: kyong_mcdermott@ryan.co.uk
+    city: East Laureenberg
+    street: Verlene Rue
+    house: '0983'
+  date: 2018-05-16 14:43:32.831773179 +03:00
+- !ruby/object:Order
+  book: *52
+  reader: *111
+  date: 2018-05-16 14:43:32.831774220 +03:00
+- !ruby/object:Order
+  book: *100
+  reader: &119 !ruby/object:Reader
+    name: Andree Heathcote
+    email: wanita.veum@gulgowski.info
+    city: West Franciscastad
+    street: Martin Crossroad
+    house: '89485'
+  date: 2018-05-16 14:43:32.831788275 +03:00
+- !ruby/object:Order
+  book: *62
+  reader: &137 !ruby/object:Reader
+    name: Doreatha Nikolaus
+    email: mabel@renner.name
+    city: Kirlinchester
+    street: Farrell Meadows
+    house: '58760'
+  date: 2018-05-16 14:43:32.831789293 +03:00
+- !ruby/object:Order
+  book: *58
+  reader: *112
+  date: 2018-05-16 14:43:32.831790278 +03:00
+- !ruby/object:Order
+  book: *55
+  reader: *75
+  date: 2018-05-16 14:43:32.831791285 +03:00
+- !ruby/object:Order
+  book: *113
+  reader: *114
+  date: 2018-05-16 14:43:32.831792267 +03:00
+- !ruby/object:Order
+  book: *54
+  reader: *115
+  date: 2018-05-16 14:43:32.831793237 +03:00
+- !ruby/object:Order
+  book: *68
+  reader: *78
+  date: 2018-05-16 14:43:32.831794215 +03:00
+- !ruby/object:Order
+  book: *53
+  reader: *116
+  date: 2018-05-16 14:43:32.831795186 +03:00
+- !ruby/object:Order
+  book: *65
+  reader: *117
+  date: 2018-05-16 14:43:32.831798856 +03:00
+- !ruby/object:Order
+  book: *92
+  reader: *69
+  date: 2018-05-16 14:43:32.831800046 +03:00
+- !ruby/object:Order
+  book: *64
+  reader: &133 !ruby/object:Reader
+    name: Janean Herman
+    email: fermina@pollich.ca
+    city: South Melanieside
+    street: Anderson Throughway
+    house: '06760'
+  date: 2018-05-16 14:43:32.831801156 +03:00
+- !ruby/object:Order
+  book: *73
+  reader: *90
+  date: 2018-05-16 14:43:32.831802264 +03:00
+- !ruby/object:Order
+  book: *74
+  reader: &141 !ruby/object:Reader
+    name: Sal Johns
+    email: gwendolyn.smith@nikolaus.info
+    city: Reidstad
+    street: Goyette Radial
+    house: '929'
+  date: 2018-05-16 14:43:32.831803352 +03:00
+- !ruby/object:Order
+  book: *53
+  reader: *114
+  date: 2018-05-16 14:43:32.831804386 +03:00
+- !ruby/object:Order
+  book: *118
+  reader: &135 !ruby/object:Reader
+    name: Melida Sawayn
+    email: tracy@grimesbalistreri.info
+    city: Aletheahaven
+    street: Marquardt Centers
+    house: '95647'
+  date: 2018-05-16 14:43:32.831805450 +03:00
+- !ruby/object:Order
+  book: *88
+  reader: *119
+  date: 2018-05-16 14:43:32.831806475 +03:00
+- !ruby/object:Order
+  book: *61
+  reader: *112
+  date: 2018-05-16 14:43:32.831807508 +03:00
+- !ruby/object:Order
+  book: *118
+  reader: *120
+  date: 2018-05-16 14:43:32.831808544 +03:00
+- !ruby/object:Order
+  book: *121
+  reader: &125 !ruby/object:Reader
+    name: Nancy Okuneva
+    email: darrel.kassulke@rohancasper.info
+    city: Echoland
+    street: Ariana Fields
+    house: '8691'
+  date: 2018-05-16 14:43:32.831809570 +03:00
+- !ruby/object:Order
+  book: *104
+  reader: *102
+  date: 2018-05-16 14:43:32.831810645 +03:00
+- !ruby/object:Order
+  book: *121
+  reader: *75
+  date: 2018-05-16 14:43:32.831811808 +03:00
+- !ruby/object:Order
+  book: *122
+  reader: *123
+  date: 2018-05-16 14:43:32.831812891 +03:00
+- !ruby/object:Order
+  book: *109
+  reader: *112
+  date: 2018-05-16 14:43:32.831813980 +03:00
+- !ruby/object:Order
+  book: *80
+  reader: *105
+  date: 2018-05-16 14:43:32.831815102 +03:00
+- !ruby/object:Order
+  book: *58
+  reader: &129 !ruby/object:Reader
+    name: Jody Oberbrunner
+    email: ophelia_green@friesen.co.uk
+    city: Lake Rick
+    street: Margeret Route
+    house: '32362'
+  date: 2018-05-16 14:43:32.831816177 +03:00
+- !ruby/object:Order
+  book: *99
+  reader: *124
+  date: 2018-05-16 14:43:32.831817177 +03:00
+- !ruby/object:Order
+  book: *60
+  reader: *111
+  date: 2018-05-16 14:43:32.831818280 +03:00
+- !ruby/object:Order
+  book: *66
+  reader: *125
+  date: 2018-05-16 14:43:32.831819261 +03:00
+- !ruby/object:Order
+  book: *109
+  reader: &138 !ruby/object:Reader
+    name: Eugene Vandervort
+    email: saran@mertz.info
+    city: Steubershire
+    street: Upton Knoll
+    house: '815'
+  date: 2018-05-16 14:43:32.831820278 +03:00
+- !ruby/object:Order
+  book: *126
+  reader: *105
+  date: 2018-05-16 14:43:32.831821270 +03:00
+- !ruby/object:Order
+  book: *84
+  reader: &146 !ruby/object:Reader
+    name: Dee Bradtke
+    email: lili@bashirianshanahan.info
+    city: Port Ilona
+    street: Abshire Via
+    house: '250'
+  date: 2018-05-16 14:43:32.831822292 +03:00
+- !ruby/object:Order
+  book: *127
+  reader: *98
+  date: 2018-05-16 14:43:32.831823340 +03:00
+- !ruby/object:Order
+  book: *88
+  reader: *128
+  date: 2018-05-16 14:43:32.831824322 +03:00
+- !ruby/object:Order
+  book: *122
+  reader: *129
+  date: 2018-05-16 14:43:32.831825361 +03:00
+- !ruby/object:Order
+  book: *127
+  reader: *111
+  date: 2018-05-16 14:43:32.831826347 +03:00
+- !ruby/object:Order
+  book: *100
+  reader: *123
+  date: 2018-05-16 14:43:32.831827426 +03:00
+- !ruby/object:Order
+  book: *67
+  reader: *130
+  date: 2018-05-16 14:43:32.831828494 +03:00
+- !ruby/object:Order
+  book: *63
+  reader: &142 !ruby/object:Reader
+    name: Felicitas Mohr
+    email: lacie.mcclure@stanton.co.uk
+    city: Denverville
+    street: Jeni Divide
+    house: '18144'
+  date: 2018-05-16 14:43:32.831829540 +03:00
+- !ruby/object:Order
+  book: *84
+  reader: *124
+  date: 2018-05-16 14:43:32.831830621 +03:00
+- !ruby/object:Order
+  book: *52
+  reader: *110
+  date: 2018-05-16 14:43:32.831831622 +03:00
+- !ruby/object:Order
+  book: *72
+  reader: *129
+  date: 2018-05-16 14:43:32.831832817 +03:00
+- !ruby/object:Order
+  book: *92
+  reader: *131
+  date: 2018-05-16 14:43:32.831833816 +03:00
+readers:
+- *125
+- *79
+- !ruby/object:Reader
+  name: Dana Schaefer
+  email: veda_ryan@gutkowskiklocko.name
+  city: Lake Shaquanastad
+  street: Donette Row
+  house: '07107'
+- *69
+- *132
+- *116
+- *70
+- *133
+- *103
+- *134
+- *90
+- *124
+- *135
+- *117
+- *81
+- *123
+- *101
+- *130
+- *136
+- *137
+- *119
+- *138
+- *139
+- *140
+- *114
+- *141
+- *96
+- *112
+- *142
+- *107
+- !ruby/object:Reader
+  name: Karma Bahringer
+  email: jerilyn@connelly.info
+  city: Kentonshire
+  street: Luettgen Land
+  house: '1997'
+- *105
+- *143
+- *111
+- *144
+- *106
+- *120
+- *77
+- *131
+- !ruby/object:Reader
+  name: Savannah Greenfelder
+  email: tamesha@stanton.biz
+  city: New Sonmouth
+  street: Romaguera Avenue
+  house: '7052'
+- *93
+- *128
+- *78
+- *115
+- *98
+- *145
+- *146
+- !ruby/object:Reader
+  name: Tyrone Braun
+  email: ileana.maggio@okeefe.co.uk
+  city: Odisville
+  street: Ione Springs
+  house: '207'
+- *129
+- *85
+- *102
+- *110
+- !ruby/object:Reader
+  name: Dorie Bernhard
+  email: una@handfadel.biz
+  city: South Tamalahaven
+  street: Katelin Burgs
+  house: '518'
+- *108
+- *75
+- *97
+- *147
+- !ruby/object:Reader
+  name: Irena Pfeffer
+  email: tarra@oberbrunner.info
+  city: Ciarafort
+  street: Nobuko Overpass
+  house: '81406'
+- *148
+- !ruby/object:Reader
+  name: Hallie Kreiger
+  email: gwyneth_oga@bailey.co.uk
+  city: North Nikiberg
+  street: Usha Valley
+  house: '7831'
